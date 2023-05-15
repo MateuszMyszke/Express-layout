@@ -1,0 +1,13 @@
+h1 {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.dark { 
+  background: rgb(56, 54, 60); 
+  color: white;
+}
+
+.dark a {
+  color: white;
+}
